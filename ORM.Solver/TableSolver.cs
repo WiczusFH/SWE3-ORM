@@ -8,6 +8,9 @@ using System.Reflection;
 
 namespace ORM.Solver
 {
+    /// <summary>
+    /// Creates TableMaps based on the Type. (Does not solve for MN dependencies => DependencySolver)
+    /// </summary>
     public class TableSolver
     {
 

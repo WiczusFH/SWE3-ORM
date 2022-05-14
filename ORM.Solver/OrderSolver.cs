@@ -7,7 +7,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ORM.Solver
-{
+{   
+    /// <summary>
+    /// Solves for create, insert, delete order. 
+    /// </summary>
     public class OrderSolver
     {
         TableMap newMap = new TableMap();

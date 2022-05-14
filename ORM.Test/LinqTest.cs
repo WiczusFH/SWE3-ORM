@@ -33,7 +33,7 @@ namespace ORM.Test
             Expression<Func<Book, bool>> isFantasy = s => (s.title == "Lord of the Rings") || (s.title == "Game of Thrones");
             LinqQueryBuilder builder = new LinqQueryBuilder(isFantasy,tableMap);
 
-            Assert.AreEqual("WHERE Book.title = Lord of the Rings OR Book.title = Game of Thrones", builder.whereQuery);
+            Assert.AreEqual("WHERE Book.title = 'Lord of the Rings' OR Book.title = 'Game of Thrones'", builder.whereQuery);
         }
         [Test]
         public void test2()

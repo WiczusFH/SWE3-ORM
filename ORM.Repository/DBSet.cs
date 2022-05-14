@@ -31,8 +31,8 @@ namespace ORM.Repository
         public void delete(Expression<Func<T, bool>> exp) {
             ITable table = context._TableMap.getTable(typeof(T));
             LinqQueryBuilder builder = new LinqQueryBuilder(exp, context._TableMap);
+            //God I am sorry for I have sinned...
             foreach (MemberInfo info in typeof(T).GetMembers()) {
-
                 ITable rt_Table = context._TableMap.getTable(info);
                 if (rt_Table != null) { 
                     CascaseDelete attribute = (CascaseDelete)info.GetCustomAttribute(typeof(CascaseDelete));

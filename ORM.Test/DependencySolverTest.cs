@@ -42,7 +42,6 @@ namespace ORM.Test
         }
         public class CRUDMock : ICRUD
         {
-
             public void createStatements(ITable table)
             {
             }
@@ -51,23 +50,11 @@ namespace ORM.Test
             {
             }
 
-            public void insertStatement(string tableName, List<IParam> param)
-            {
-            }
-
             public void insertStatement(string tableName, IInsert insert)
             {
             }
 
             public void insertStatements(string tableName, List<IInsert> insert)
-            {
-            }
-
-            public void selectStatement(string statement)
-            {
-            }
-
-            public void selectStatement(ITable table, string whereStatement)
             {
             }
 

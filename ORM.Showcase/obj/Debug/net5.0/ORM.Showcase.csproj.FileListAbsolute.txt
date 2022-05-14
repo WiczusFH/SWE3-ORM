@@ -43,7 +43,5 @@ C:\Users\Oskar\source\repos\ORM\ORM.Showcase\bin\Debug\net5.0\ORM.DTO.pdb
 C:\Users\Oskar\source\repos\ORM\ORM.Showcase\bin\Debug\net5.0\ORM.Postgres.pdb
 C:\Users\Oskar\source\repos\ORM\ORM.Showcase\bin\Debug\net5.0\ORM.Interfaces.pdb
 C:\Users\Oskar\source\repos\ORM\ORM.Showcase\bin\Debug\net5.0\ORM.Solver.pdb
-C:\Users\Oskar\source\repos\ORM\ORM.Showcase\bin\Debug\net5.0\ORM.Enums.dll
 C:\Users\Oskar\source\repos\ORM\ORM.Showcase\bin\Debug\net5.0\ORM.Repository.dll
 C:\Users\Oskar\source\repos\ORM\ORM.Showcase\bin\Debug\net5.0\ORM.Repository.pdb
-C:\Users\Oskar\source\repos\ORM\ORM.Showcase\bin\Debug\net5.0\ORM.Enums.pdb

@@ -10,7 +10,6 @@
         "dependencies": {
           "ORM.Attributes": "1.0.0",
           "ORM.DTO": "1.0.0",
-          "ORM.Enums": "1.0.0",
           "ORM.Interfaces": "1.0.0",
           "ORM.Postgres": "1.0.0",
           "ORM.Solver": "1.0.0",
@@ -182,14 +181,6 @@
           "ORM.DTO.dll": {}
         }
       },
-      "ORM.Enums/1.0.0": {
-        "dependencies": {
-          "Npgsql": "6.0.4"
-        },
-        "runtime": {
-          "ORM.Enums.dll": {}
-        }
-      },
       "ORM.Interfaces/1.0.0": {
         "dependencies": {
           "Npgsql": "6.0.4"
@@ -320,11 +311,6 @@
       "sha512": ""
     },
     "ORM.DTO/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "ORM.Enums/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -15,6 +15,9 @@ using NpgsqlTypes;
 
 namespace ORM.Postgres
 {
+    /// <summary>
+    /// Contains Crud Methods for a Postgres integration. 
+    /// </summary>
     public class CRUD : ICRUD
     {
 

@@ -11,6 +11,11 @@ using System.Reflection;
 
 namespace ORM.Repository
 {
+    /// <summary>
+    /// Repository should implement this class. This along DBSet is the main point of interaction with the framework. 
+    /// 
+    /// Insert and Create functionality is a design error and should be moved to a lower leveled project. For now it stays here.
+    /// </summary>
     public class Context : IContext
     {
 
@@ -18,10 +23,6 @@ namespace ORM.Repository
         public ICRUD crud = new CRUD();
         public List<ITable> tableOrder = new List<ITable>();
         public List<IList> sets = new List<IList>();
-
-
-
-
         public Context(){
             MemberInfo[] infos = this.GetType().GetMembers();
             foreach (MemberInfo info in infos)
@@ -29,8 +30,6 @@ namespace ORM.Repository
                 if (Reflection.getTypeFromMember(info)?.GetCustomAttribute(typeof(DBSetAttribute)) != null)
                 {
                     ((IDBSet)Reflection.GetValue(info, this)).setContext(this);
-
-
                 }
             }
         }

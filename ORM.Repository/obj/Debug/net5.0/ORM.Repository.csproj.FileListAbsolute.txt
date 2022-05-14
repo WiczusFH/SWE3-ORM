@@ -4,14 +4,12 @@ C:\Users\Oskar\source\repos\ORM\ORM.Repository\bin\Debug\net5.0\ref\ORM.Reposito
 C:\Users\Oskar\source\repos\ORM\ORM.Repository\bin\Debug\net5.0\ORM.Repository.pdb
 C:\Users\Oskar\source\repos\ORM\ORM.Repository\bin\Debug\net5.0\ORM.Attributes.dll
 C:\Users\Oskar\source\repos\ORM\ORM.Repository\bin\Debug\net5.0\ORM.DTO.dll
-C:\Users\Oskar\source\repos\ORM\ORM.Repository\bin\Debug\net5.0\ORM.Enums.dll
 C:\Users\Oskar\source\repos\ORM\ORM.Repository\bin\Debug\net5.0\ORM.Interfaces.dll
 C:\Users\Oskar\source\repos\ORM\ORM.Repository\bin\Debug\net5.0\ORM.Postgres.dll
 C:\Users\Oskar\source\repos\ORM\ORM.Repository\bin\Debug\net5.0\ORM.Solver.dll
 C:\Users\Oskar\source\repos\ORM\ORM.Repository\bin\Debug\net5.0\ORM.Util.dll
 C:\Users\Oskar\source\repos\ORM\ORM.Repository\bin\Debug\net5.0\ORM.Attributes.pdb
 C:\Users\Oskar\source\repos\ORM\ORM.Repository\bin\Debug\net5.0\ORM.DTO.pdb
-C:\Users\Oskar\source\repos\ORM\ORM.Repository\bin\Debug\net5.0\ORM.Enums.pdb
 C:\Users\Oskar\source\repos\ORM\ORM.Repository\bin\Debug\net5.0\ORM.Interfaces.pdb
 C:\Users\Oskar\source\repos\ORM\ORM.Repository\bin\Debug\net5.0\ORM.Postgres.pdb
 C:\Users\Oskar\source\repos\ORM\ORM.Repository\bin\Debug\net5.0\ORM.Solver.pdb

@@ -8,6 +8,10 @@ using System.Threading.Tasks;
 
 namespace ORM.Solver
 {
+    /// <summary>
+    /// Makes creates inserts by listing user defined classes. 
+    /// Not implemented, analogous, recursive method is contained in Context class. 
+    /// </summary>
     public class InsertSolver
     {
         HashSet<object> toInsert = new HashSet<object>();

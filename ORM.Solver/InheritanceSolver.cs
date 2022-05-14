@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace ORM.Solver
 {
+    /// <summary>
+    /// Halves the type into Base Class and Child Class
+    /// </summary>
     public class InheritanceSolver
     {
         public List<MemberInfo> childInfos = new List<MemberInfo>();

@@ -218,19 +218,6 @@
           "bin/placeholder/ORM.DTO.dll": {}
         }
       },
-      "ORM.Enums/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Npgsql": "6.0.4"
-        },
-        "compile": {
-          "bin/placeholder/ORM.Enums.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ORM.Enums.dll": {}
-        }
-      },
       "ORM.Interfaces/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -638,11 +625,6 @@
       "path": "../ORM.DTO/ORM.DTO.csproj",
       "msbuildProject": "../ORM.DTO/ORM.DTO.csproj"
     },
-    "ORM.Enums/1.0.0": {
-      "type": "project",
-      "path": "../ORM.Enums/ORM.Enums.csproj",
-      "msbuildProject": "../ORM.Enums/ORM.Enums.csproj"
-    },
     "ORM.Interfaces/1.0.0": {
       "type": "project",
       "path": "../ORM.Interfaces/ORM.Interfaces.csproj",
@@ -668,7 +650,6 @@
     "net5.0": [
       "ORM.Attributes >= 1.0.0",
       "ORM.DTO >= 1.0.0",
-      "ORM.Enums >= 1.0.0",
       "ORM.Interfaces >= 1.0.0",
       "ORM.Postgres >= 1.0.0",
       "ORM.Solver >= 1.0.0",
@@ -715,9 +696,6 @@
             },
             "C:\\Users\\Oskar\\source\\repos\\ORM\\ORM.DTO\\ORM.DTO.csproj": {
               "projectPath": "C:\\Users\\Oskar\\source\\repos\\ORM\\ORM.DTO\\ORM.DTO.csproj"
-            },
-            "C:\\Users\\Oskar\\source\\repos\\ORM\\ORM.Enums\\ORM.Enums.csproj": {
-              "projectPath": "C:\\Users\\Oskar\\source\\repos\\ORM\\ORM.Enums\\ORM.Enums.csproj"
             },
             "C:\\Users\\Oskar\\source\\repos\\ORM\\ORM.Interfaces\\ORM.Interfaces.csproj": {
               "projectPath": "C:\\Users\\Oskar\\source\\repos\\ORM\\ORM.Interfaces\\ORM.Interfaces.csproj"

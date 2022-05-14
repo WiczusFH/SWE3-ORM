@@ -13,8 +13,6 @@ namespace ORM.Showcase
 
     class Program
     {
-
-
         static void Main(string[] args)
         {
             //Build Repository and data model

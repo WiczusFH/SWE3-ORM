@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace ORM.DTO
 {
+    /// <summary>
+    /// Contains informations about Columns and their mapped members.
+    /// </summary>
     public class ColumnMap : IColumnMap
     {
         public Dictionary<MemberInfo, IColumn> MapMI { get; set; } = new Dictionary<MemberInfo, IColumn>();

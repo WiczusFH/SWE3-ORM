@@ -131,10 +131,8 @@ C:\Users\Oskar\source\repos\ORM\ORM.Test\bin\Debug\net5.0\ORM.Showcase.deps.json
 C:\Users\Oskar\source\repos\ORM\ORM.Test\bin\Debug\net5.0\ORM.Showcase.runtimeconfig.json
 C:\Users\Oskar\source\repos\ORM\ORM.Test\bin\Debug\net5.0\ORM.Showcase.runtimeconfig.dev.json
 C:\Users\Oskar\source\repos\ORM\ORM.Test\bin\Debug\net5.0\ORM.Showcase.exe
-C:\Users\Oskar\source\repos\ORM\ORM.Test\bin\Debug\net5.0\ORM.Enums.dll
 C:\Users\Oskar\source\repos\ORM\ORM.Test\bin\Debug\net5.0\ORM.Repository.dll
 C:\Users\Oskar\source\repos\ORM\ORM.Test\bin\Debug\net5.0\ORM.Showcase.dll
 C:\Users\Oskar\source\repos\ORM\ORM.Test\bin\Debug\net5.0\ORM.Showcase.pdb
 C:\Users\Oskar\source\repos\ORM\ORM.Test\bin\Debug\net5.0\ORM.Showcase.dll.config
-C:\Users\Oskar\source\repos\ORM\ORM.Test\bin\Debug\net5.0\ORM.Enums.pdb
 C:\Users\Oskar\source\repos\ORM\ORM.Test\bin\Debug\net5.0\ORM.Repository.pdb

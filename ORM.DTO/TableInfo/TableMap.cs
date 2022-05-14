@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace ORM.DTO
 {
+    /// <summary>
+    /// Contains informations on Tables and their mapped Classes or Members. 
+    /// </summary>
     public class TableMap : ITableMap
     {
         public Dictionary<Type, ITable> MapType { get; private set; } = new Dictionary<Type, ITable>();

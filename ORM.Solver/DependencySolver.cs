@@ -10,11 +10,13 @@ using OZCore.Converters;
 
 namespace ORM.Solver
 {
+    /// <summary>
+    /// Creates Relational Tables for MN Dependencies. 
+    /// </summary>
     public class DependencySolver
     {
         public TableMap rt_map = new TableMap();
         public void solveMNDependencies(Type type, ITableMap map) {
-            //Not implemented
             TableMap result = new TableMap();
             foreach(MemberInfo info in type.GetMembers()) {
                 if (Reflection.isList(info)) {

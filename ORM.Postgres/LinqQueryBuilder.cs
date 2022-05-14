@@ -11,6 +11,9 @@ using System.Threading.Tasks;
 
 namespace ORM.Postgres
 {
+    /// <summary>
+    /// Creates statements from Linq Expressions
+    /// </summary>
     public class LinqQueryBuilder : ExpressionVisitor
     {
         ITableMap tableMap;
