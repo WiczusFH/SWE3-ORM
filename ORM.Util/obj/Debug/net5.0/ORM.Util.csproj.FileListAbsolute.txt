@@ -1,0 +1,12 @@
+C:\Users\Oskar\source\repos\ORM\ORM.Util\bin\Debug\net5.0\ORM.Util.deps.json
+C:\Users\Oskar\source\repos\ORM\ORM.Util\bin\Debug\net5.0\ORM.Util.dll
+C:\Users\Oskar\source\repos\ORM\ORM.Util\bin\Debug\net5.0\ref\ORM.Util.dll
+C:\Users\Oskar\source\repos\ORM\ORM.Util\bin\Debug\net5.0\ORM.Util.pdb
+C:\Users\Oskar\source\repos\ORM\ORM.Util\obj\Debug\net5.0\ORM.Util.csproj.AssemblyReference.cache
+C:\Users\Oskar\source\repos\ORM\ORM.Util\obj\Debug\net5.0\ORM.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskar\source\repos\ORM\ORM.Util\obj\Debug\net5.0\ORM.Util.AssemblyInfoInputs.cache
+C:\Users\Oskar\source\repos\ORM\ORM.Util\obj\Debug\net5.0\ORM.Util.AssemblyInfo.cs
+C:\Users\Oskar\source\repos\ORM\ORM.Util\obj\Debug\net5.0\ORM.Util.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\source\repos\ORM\ORM.Util\obj\Debug\net5.0\ORM.Util.dll
+C:\Users\Oskar\source\repos\ORM\ORM.Util\obj\Debug\net5.0\ref\ORM.Util.dll
+C:\Users\Oskar\source\repos\ORM\ORM.Util\obj\Debug\net5.0\ORM.Util.pdb

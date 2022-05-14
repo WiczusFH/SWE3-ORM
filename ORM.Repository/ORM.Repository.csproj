@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ORM.Attributes\ORM.Attributes.csproj" />
+    <ProjectReference Include="..\ORM.DTO\ORM.DTO.csproj" />
+    <ProjectReference Include="..\ORM.Enums\ORM.Enums.csproj" />
+    <ProjectReference Include="..\ORM.Interfaces\ORM.Interfaces.csproj" />
+    <ProjectReference Include="..\ORM.Postgres\ORM.Postgres.csproj" />
+    <ProjectReference Include="..\ORM.Solver\ORM.Solver.csproj" />
+    <ProjectReference Include="..\ORM.Util\ORM.Util.csproj" />
+  </ItemGroup>
+
+</Project>

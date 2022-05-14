@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lBx0I97F03MZ6JheD/47XOKBiqyfjZNXdVL1bunqbZAB7/WrM1LgAM3o3ZlwwhE61uw0V0JSFcSLQkZ5FT05zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oskar\\source\\repos\\ORM\\ORM.Util\\ORM.Util.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oskar\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
+    "C:\\Users\\Oskar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

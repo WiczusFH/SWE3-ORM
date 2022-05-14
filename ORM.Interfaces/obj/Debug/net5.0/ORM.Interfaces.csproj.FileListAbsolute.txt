@@ -1,0 +1,12 @@
+C:\Users\Oskar\source\repos\ORM\ORM.Interfaces\bin\Debug\net5.0\ORM.Interfaces.deps.json
+C:\Users\Oskar\source\repos\ORM\ORM.Interfaces\bin\Debug\net5.0\ORM.Interfaces.dll
+C:\Users\Oskar\source\repos\ORM\ORM.Interfaces\bin\Debug\net5.0\ref\ORM.Interfaces.dll
+C:\Users\Oskar\source\repos\ORM\ORM.Interfaces\bin\Debug\net5.0\ORM.Interfaces.pdb
+C:\Users\Oskar\source\repos\ORM\ORM.Interfaces\obj\Debug\net5.0\ORM.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Oskar\source\repos\ORM\ORM.Interfaces\obj\Debug\net5.0\ORM.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskar\source\repos\ORM\ORM.Interfaces\obj\Debug\net5.0\ORM.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Oskar\source\repos\ORM\ORM.Interfaces\obj\Debug\net5.0\ORM.Interfaces.AssemblyInfo.cs
+C:\Users\Oskar\source\repos\ORM\ORM.Interfaces\obj\Debug\net5.0\ORM.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\source\repos\ORM\ORM.Interfaces\obj\Debug\net5.0\ORM.Interfaces.dll
+C:\Users\Oskar\source\repos\ORM\ORM.Interfaces\obj\Debug\net5.0\ref\ORM.Interfaces.dll
+C:\Users\Oskar\source\repos\ORM\ORM.Interfaces\obj\Debug\net5.0\ORM.Interfaces.pdb

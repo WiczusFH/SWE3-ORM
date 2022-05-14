@@ -1,0 +1,12 @@
+C:\Users\Oskar\source\repos\ORM\ORM.Attributes\bin\Debug\net5.0\ORM.Attributes.deps.json
+C:\Users\Oskar\source\repos\ORM\ORM.Attributes\bin\Debug\net5.0\ORM.Attributes.dll
+C:\Users\Oskar\source\repos\ORM\ORM.Attributes\bin\Debug\net5.0\ref\ORM.Attributes.dll
+C:\Users\Oskar\source\repos\ORM\ORM.Attributes\bin\Debug\net5.0\ORM.Attributes.pdb
+C:\Users\Oskar\source\repos\ORM\ORM.Attributes\obj\Debug\net5.0\ORM.Attributes.csproj.AssemblyReference.cache
+C:\Users\Oskar\source\repos\ORM\ORM.Attributes\obj\Debug\net5.0\ORM.Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskar\source\repos\ORM\ORM.Attributes\obj\Debug\net5.0\ORM.Attributes.AssemblyInfoInputs.cache
+C:\Users\Oskar\source\repos\ORM\ORM.Attributes\obj\Debug\net5.0\ORM.Attributes.AssemblyInfo.cs
+C:\Users\Oskar\source\repos\ORM\ORM.Attributes\obj\Debug\net5.0\ORM.Attributes.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\source\repos\ORM\ORM.Attributes\obj\Debug\net5.0\ORM.Attributes.dll
+C:\Users\Oskar\source\repos\ORM\ORM.Attributes\obj\Debug\net5.0\ref\ORM.Attributes.dll
+C:\Users\Oskar\source\repos\ORM\ORM.Attributes\obj\Debug\net5.0\ORM.Attributes.pdb

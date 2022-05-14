@@ -1,0 +1,12 @@
+C:\Users\Oskar\source\repos\ORM\ORM.Enums\bin\Debug\net5.0\ORM.Enums.deps.json
+C:\Users\Oskar\source\repos\ORM\ORM.Enums\bin\Debug\net5.0\ORM.Enums.dll
+C:\Users\Oskar\source\repos\ORM\ORM.Enums\bin\Debug\net5.0\ref\ORM.Enums.dll
+C:\Users\Oskar\source\repos\ORM\ORM.Enums\bin\Debug\net5.0\ORM.Enums.pdb
+C:\Users\Oskar\source\repos\ORM\ORM.Enums\obj\Debug\net5.0\ORM.Enums.csproj.AssemblyReference.cache
+C:\Users\Oskar\source\repos\ORM\ORM.Enums\obj\Debug\net5.0\ORM.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskar\source\repos\ORM\ORM.Enums\obj\Debug\net5.0\ORM.Enums.AssemblyInfoInputs.cache
+C:\Users\Oskar\source\repos\ORM\ORM.Enums\obj\Debug\net5.0\ORM.Enums.AssemblyInfo.cs
+C:\Users\Oskar\source\repos\ORM\ORM.Enums\obj\Debug\net5.0\ORM.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\source\repos\ORM\ORM.Enums\obj\Debug\net5.0\ORM.Enums.dll
+C:\Users\Oskar\source\repos\ORM\ORM.Enums\obj\Debug\net5.0\ref\ORM.Enums.dll
+C:\Users\Oskar\source\repos\ORM\ORM.Enums\obj\Debug\net5.0\ORM.Enums.pdb

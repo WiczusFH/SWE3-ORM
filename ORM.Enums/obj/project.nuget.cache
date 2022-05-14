@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hFcT+gHoD+hk3zE3sNScTxmAg8AIFtPIe17J/yYbQNhpkZyl5FJPEiSaCEj4IYqf+AgaAeWZZ8/gn060SPVm0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oskar\\source\\repos\\ORM\\ORM.Enums\\ORM.Enums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oskar\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
+    "C:\\Users\\Oskar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
