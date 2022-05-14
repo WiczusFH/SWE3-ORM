@@ -3,7 +3,9 @@
 Install a postgres database.
 
 #Configuration
+
 In your project use App.settings for the Database connection. 
+
 `
 <?xml version="1.0" encoding="utf-8" ?>
 <configuration>
@@ -17,9 +19,10 @@ In your project use App.settings for the Database connection.
 	</appSettings>
 </configuration>
 `
+
 #Building the Datamodel
-1. Create a repository that inherits from ORM.Repository.Context.
-2. Create DBSets for the Objects you want to persists in your app. 
+1. Create a repository that inherits from ORM.Repository.Context.\n
+3. Create DBSets for the Objects you want to persists in your app. \n
   Objects are persisted based on type so there is no need to add every nested object.
 3. Use Annotations if needed. 
   TableName => Custom table name. 
